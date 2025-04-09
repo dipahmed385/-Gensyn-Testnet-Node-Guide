@@ -1,5 +1,5 @@
 # Gensyn-Testnet-Node-Guide
-🚀Credit: Gensyn Node Guide is created by ZUN, I have adjusted Acc to own style so that my community can easily join the Gensyn testnet.
+Credit: The original Gensyn Node Guide was created by ZUN. I’ve customized it in my own style to make it easier for my community to join the Gensyn testnet.
 
 Join Telegram https://t.me/testnetmaterial
 

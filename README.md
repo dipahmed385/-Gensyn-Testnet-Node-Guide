@@ -2,6 +2,7 @@
 🚀Credit: Gensyn Node Guide is created by ZUN, I have adjusted Acc to own style so that my community can easily join the Gensyn testnet.
 
 Join Telegram https://t.me/testnetmaterial
+Gensyn Node Step-by-Step YouTube Guide https://www.youtube.com/@dipahammed_drop
 
 ## Install Packages
 
